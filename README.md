@@ -8,19 +8,17 @@
 ### 👩‍💻 About Me
 
 I'm **MUHAMMAD EKRAMAH** from Pakistan  
-I am Muhammad Ekramah, currently engaged in advanced studies in bioinformatics at Quaid-e-Azam University. My academic focus integrates computer science and biology, enabling me to navigate and analyze complex genetic datasets with a view toward medical innovations.
+, currently engaged in advanced studies in bioinformatics at Quaid-e-Azam University. My academic focus integrates computer science and biology, enabling me to navigate and analyze complex genetic datasets with a view toward medical innovations.
 
 My primary objective is to deepen my expertise in bioinformatics and apply this knowledge to areas such as personalized medicine and genetic research. Through rigorous coursework and independent projects, I continuously refine my skills in machine learning and data analysis, particularly in predicting genetic patterns and behaviors.
 
 Beyond academics, I actively pursue opportunities to collaborate with peers and industry professionals, believing that shared insights and collective problem-solving are key drivers of innovation in our field.
 
-If you are interested in how data science is transforming our understanding of human biology, I welcome the opportunity to connect and explore potential collaborations.
-
 ---
 
 ### 🚀 Goals
 
-- 🔹 Gain expertise in **Cybersecurity**, **Data Science**, and **AI/ML**
+- 🔹 Gain expertise in **bioinformatics**, **Data Science**, and **AI/ML**
 
 ---
 
@@ -29,7 +27,7 @@ If you are interested in how data science is transforming our understanding of h
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" />
 </div>
 
 ---
@@ -37,14 +35,20 @@ If you are interested in how data science is transforming our understanding of h
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bioinformatics-6A1B9A?style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Database%20Management%20System-FFA500?style=flat" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R%20Studio-276DC3?style=flat&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Problem%20Solving-6A1B9A?style=flat" />
 </p>
 
 ---
+
 
 ### 🐝 Certifications
 
