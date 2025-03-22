@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<!--
-**itsEkramah/itsEkramah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **MUHAMMAD EKRAMAH** from Pakistan  
+I am Muhammad Ekramah, currently engaged in advanced studies in bioinformatics at Quaid-e-Azam University. My academic focus integrates computer science and biology, enabling me to navigate and analyze complex genetic datasets with a view toward medical innovations.
+
+My primary objective is to deepen my expertise in bioinformatics and apply this knowledge to areas such as personalized medicine and genetic research. Through rigorous coursework and independent projects, I continuously refine my skills in machine learning and data analysis, particularly in predicting genetic patterns and behaviors.
+
+Beyond academics, I actively pursue opportunities to collaborate with peers and industry professionals, believing that shared insights and collective problem-solving are key drivers of innovation in our field.
+
+If you are interested in how data science is transforming our understanding of human biology, I welcome the opportunity to connect and explore potential collaborations.
+
+---
+
+### 🚀 Goals
+
+- 🔹 Gain expertise in **Cybersecurity**, **Data Science**, and **AI/ML**
+
+---
+
+### 🛠 Languages and Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+</div>
+
+---
+
+### 🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem%20Solving-6A1B9A?style=flat" />
+</p>
+
+---
+
+### 🐝 Certifications
+
+#### 📚 My Courses & Achievements:
+
+- **Introduction to Data Science** – *IBM*  
+- **Generative AI Engineering with LLMs** – *IBM*  
+- **GenAI Summarization with Langchain: Summarize Text Documents** – *Coursera Project Network*  
+  *Grade Achieved: 100%*  
+- **GenAI For Business Analysis: Fine-Tuning LLMs** – *Coursera Project Network*  
+  *Grade Achieved: 100%*  
+- **GenAI Basics - How LLMs Work** – *Duke University*  
+  *Grade Achieved: 100%*  
+- **Databases and SQL for Data Science with Python** – *IBM*  
+  *Grade Achieved: 96.50%*  
+- **Foundations of Local Large Language Models** – *Duke University*  
+  *Grade Achieved: 85%*  
+- **Prompt Engineering Generative AI for Marketing & Advertising** – *Coursera Project Network*  
+  *Grade Achieved: 100%*  
+- **Data Science Methodology** – *IBM*  
+  *Grade Achieved: 90%*  
+- **Product Analytics and AI** – *University of Virginia*  
+  *Grade Achieved: 97%*  
+- **Introduction to Machine Learning** – *Duke University*  
+  *Grade Achieved: 87%*  
+- **Project: Generative AI Applications with RAG and LangChain** – *IBM*  
+  *Grade Achieved: 96%*  
+
+---
+
+### 💌 Connect with Me
+
+<div align="center">
+  <a href="www.linkedin.com/in/muhammad-ekramah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  </a>
+  
+  <a href="mailto:muhammadekramah786@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  </a>
+</div>
+
+---
+
+### 🔄 Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramlah7/Ramlah7/output/snake.svg" alt="Snake animation" />
+</p>
