@@ -8,7 +8,7 @@
 ### 👩‍💻 About Me
 
 I'm **MUHAMMAD EKRAMAH** from Pakistan  
-, currently engaged in advanced studies in bioinformatics at Quaid-e-Azam University. My academic focus integrates computer science and biology, enabling me to navigate and analyze complex genetic datasets with a view toward medical innovations.
+, currently engaged in advanced studies in bioinformatics at Quaid-e-Azam University Islamabaad. My academic focus integrates computer science and biology, enabling me to navigate and analyze complex genetic datasets with a view toward medical innovations.
 
 My primary objective is to deepen my expertise in bioinformatics and apply this knowledge to areas such as personalized medicine and genetic research. Through rigorous coursework and independent projects, I continuously refine my skills in machine learning and data analysis, particularly in predicting genetic patterns and behaviors.
 
