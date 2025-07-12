@@ -18,7 +18,7 @@ Beyond academics, I actively pursue opportunities to collaborate with peers and 
 
 ### 🚀 Goals
 
-- 🔹 Gain expertise in **bioinformatics**, **Data Science**, and **AI/ML**
+- 🔹 Gain expertise in **bioinformatics**, and **AI/ML**
 
 ---
 
@@ -46,36 +46,6 @@ Beyond academics, I actively pursue opportunities to collaborate with peers and 
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Problem%20Solving-6A1B9A?style=flat" />
 </p>
-
----
-
-
-### 🐝 Certifications
-
-#### 📚 My Courses & Achievements:
-
-- **Introduction to Data Science** – *IBM*  
-- **Generative AI Engineering with LLMs** – *IBM*  
-- **GenAI Summarization with Langchain: Summarize Text Documents** – *Coursera Project Network*  
-  *Grade Achieved: 100%*  
-- **GenAI For Business Analysis: Fine-Tuning LLMs** – *Coursera Project Network*  
-  *Grade Achieved: 100%*  
-- **GenAI Basics - How LLMs Work** – *Duke University*  
-  *Grade Achieved: 100%*  
-- **Databases and SQL for Data Science with Python** – *IBM*  
-  *Grade Achieved: 96.50%*  
-- **Foundations of Local Large Language Models** – *Duke University*  
-  *Grade Achieved: 85%*  
-- **Prompt Engineering Generative AI for Marketing & Advertising** – *Coursera Project Network*  
-  *Grade Achieved: 100%*  
-- **Data Science Methodology** – *IBM*  
-  *Grade Achieved: 90%*  
-- **Product Analytics and AI** – *University of Virginia*  
-  *Grade Achieved: 97%*  
-- **Introduction to Machine Learning** – *Duke University*  
-  *Grade Achieved: 87%*  
-- **Project: Generative AI Applications with RAG and LangChain** – *IBM*  
-  *Grade Achieved: 96%*  
 
 ---
 
