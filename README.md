@@ -48,6 +48,16 @@ Beyond academics, I actively pursue opportunities to collaborate with peers and 
 
 ---
 
+
+### 🔄 Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramlah7/Ramlah7/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+---
+
 ### 💌 Connect with Me
 
 <div align="center">
@@ -60,10 +70,3 @@ Beyond academics, I actively pursue opportunities to collaborate with peers and 
   </a>
 </div>
 
----
-
-### 🔄 Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ramlah7/Ramlah7/output/snake.svg" alt="Snake animation" />
-</p>
